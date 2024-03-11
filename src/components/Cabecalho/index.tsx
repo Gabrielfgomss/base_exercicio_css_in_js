@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import styles from './Cabecalho.module.css'
 
 const CabecalhoContainer = styled.header`
   background-color: var(--cor-secundaria);
